@@ -14,7 +14,6 @@
         <h2 class="text-center">Thank you for registering with us!</h2>
         <button class="btn btn-primary my-4"><a href="index.php" class="text-light text-decoration-none">Back to Home</a></button>
     </div>
-    </div>
 </body>
 
 </html>
