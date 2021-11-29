@@ -6,7 +6,7 @@ A simple form validation in PHP which checks against username, email, and passwo
 Alex Corvin
 
 ### Version 
-1.0
+1.0.0
 
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
